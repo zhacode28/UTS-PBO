@@ -4,7 +4,7 @@ Membuat CRUD dengan Java Swing untuk entitas Buku dengan atribut: KodeMK, SKS, N
 ## Daftar Isi
 1. [Pendahuluan](#Pendahuluan)
 2. [Langkah-Langkah](#Langkah-Langkah)
-3. [Hasil Program](#HasilProgram)
+3. [HasilProgram](#HasilProgram)
    
 ## Pendahuluan
 Disini saya akan menjabarkan langkah-langkah dalam pembuatan Program Data Toko Buku menggunakan GUI. Tugas ini dibuat dan disusun sedemikian rupa guna untuk memenuhi tugas Simulasi UTS di MataKuliah Pemograman Berorientasi Objek Semester Ganjil Tahun 2024
@@ -35,8 +35,6 @@ Disini saya akan menjabarkan langkah-langkah dalam pembuatan Program Data Toko B
   
    <img width="778" alt="Screenshot 2024-10-08 at 14 20 25" src="https://github.com/user-attachments/assets/92598440-50d5-47a0-954e-52c9e9bb06a2">
 
-   
-   <img width="273" alt="Screenshot 2024-10-02 at 08 50 52" src="https://github.com/user-attachments/assets/ea16cc44-6843-42c4-8391-ed653c004f58">
    
    <img width="361" alt="Screenshot 2024-10-02 at 08 51 05" src="https://github.com/user-attachments/assets/4bb41435-f703-45da-a6fd-d24ea36273ea">
 
